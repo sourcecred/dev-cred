@@ -2216,3 +2216,4 @@
 {"action":{"identityId":"efr3kVbvXq0P4SJ61GXRcA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1629234844206,"uuid":"l9j1x53dQFBketOX5oEsaw","version":"1"}
 {"action":{"base":"vKmLfz3VJq4W2zMiRbH2MA","target":"7o1MsgGAn9KTzAO628dQlg","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1629234879675,"uuid":"MjvT42sa3k3nB5KpALI8KQ","version":"1"}
 {"action":{"identityId":"vKmLfz3VJq4W2zMiRbH2MA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1629234883039,"uuid":"xieQXuvzcEkWlsRUyjbpFA","version":"1"}
+{"action":{"currency":{"chainId":"1","tokenAddress":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","type":"EVM"},"id":"JKDPPkV4YzZO742Jmi3MUw","payoutAddress":"0x6F3D24F132DC9713c66faA589fd7d3712BF3A0a5","type":"SET_PAYOUT_ADDRESS"},"ledgerTimestamp":1638399357854,"uuid":"RYEkh9iYRWXU95O23smuzQ","version":"1"}
