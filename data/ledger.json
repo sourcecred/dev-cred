@@ -2229,3 +2229,4 @@
 {"action":{"identityId":"JKDPPkV4YzZO742Jmi3MUw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1638473690432,"uuid":"sZneXybfp80nDKLw3vn6aw","version":"1"}
 {"action":{"identityId":"JKDPPkV4YzZO742Jmi3MUw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1638818545640,"uuid":"fY8t27EA3t7MNoBhN7gzGw","version":"1"}
 {"action":{"identityId":"JKDPPkV4YzZO742Jmi3MUw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1638818567644,"uuid":"SW901IaIN30T4lIBwj1Rnw","version":"1"}
+{"action":{"currency":{"chainId":"1","tokenAddress":"0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48","type":"EVM"},"id":"JKDPPkV4YzZO742Jmi3MUw","payoutAddress":"0xf6Ce0526E8ee666441B7F5F0eBB78704f4C09746","type":"SET_PAYOUT_ADDRESS"},"ledgerTimestamp":1638819383830,"uuid":"pNAlocZzH6f3dD7LFEm43g","version":"1"}
